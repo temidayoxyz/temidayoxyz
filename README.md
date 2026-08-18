@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://twitter.com/temidayoxyz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.temidayo.xyz"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
-  <a href="mailto:temidayoxyz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:hello@temidayo.xyz"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/temidayoxyz"><img src="https://img.shields.io/badge/Nigeria-008751?style=for-the-badge&logo=github&logoColor=white" alt="Location" /></a>
 </p>
 
@@ -17,14 +17,18 @@
 
 ---
 
+### 🚀 Currently Building
+
+- 🚧 Building **WULLAP** ([wullap.com](https://wullap.com)) in public
+
 ### 🌱 About Me
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **100+ repositories** on GitHub — mostly tiny, useful front-end experiments
-- 🎨 I love crafting clean **HTML & CSS** interfaces and polished little web toys
-- 💬 Ask me about **front-end dev, CSS, and turning a napkin sketch into a page**
-- ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked
+- 🔭 I've shipped **<!--REPO_COUNT-->107<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🎨 I love crafting clean fullstack products and polished little web toys
+- 💬 Ask me about agentic engineering, and turning ideas into working products
+- ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
 
 ---
 
@@ -32,11 +36,11 @@
 
 <div align="center">
 
-<!-- Stats: count_private=true includes private contributions & repos -->
-<img src="https://github-readme-stats.vercel.app/api?username=temidayoxyz&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" height="180" alt="GitHub stats" />
+<!-- Self-generated every 6h — no external image services needed -->
+<img src="https://raw.githubusercontent.com/temidayoxyz/temidayoxyz/main/charts/stats.svg" alt="GitHub stats" />
 
-<!-- Streak: current streak, longest streak, total active days -->
-<img src="https://streak-stats.demolab.com?user=temidayoxyz&theme=tokyonight&hide_border=true&date_format=j%20M%5BY%5D" height="180" alt="GitHub streak" />
+<!-- Streak computed from the contribution calendar -->
+<img src="https://raw.githubusercontent.com/temidayoxyz/temidayoxyz/main/charts/streak.svg" alt="GitHub streak" />
 
 </div>
 
@@ -75,11 +79,11 @@ This chart is **generated automatically** every 6 hours by a GitHub Action — i
 
 ---
 
-### 🛠️ Languages & Trophies
+### 🛠️ Languages & Latest Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temidayoxyz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=temidayoxyz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" height="180" alt="GitHub trophies" />
+  <img src="https://raw.githubusercontent.com/temidayoxyz/temidayoxyz/main/charts/languages.svg" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/temidayoxyz/temidayoxyz/main/charts/featured.svg" alt="Latest projects" />
 </div>
 
 ### 🧰 Toolbox
@@ -93,14 +97,7 @@ This chart is **generated automatically** every 6 hours by a GitHub Action — i
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
-- 🚀 Pushed to [temidayoxyz/studio](https://github.com/temidayoxyz/studio) on `main` — 18 Aug 2026
-- 🌱 Created branch `main` in [temidayoxyz/studio](https://github.com/temidayoxyz/studio) — 18 Aug 2026
-- 🌱 Created branch `main` in [temidayoxyz/sol](https://github.com/temidayoxyz/sol) — 18 Aug 2026
-- 🌱 Created branch `main` in [temidayoxyz/rytme](https://github.com/temidayoxyz/rytme) — 18 Aug 2026
-- 🌱 Created branch `main` in [temidayoxyz/haven](https://github.com/temidayoxyz/haven) — 18 Aug 2026
-- 🌱 Created branch `main` in [temidayoxyz/atlas](https://github.com/temidayoxyz/atlas) — 18 Aug 2026
-- 🌱 Created branch `main` in [temidayoxyz/kino](https://github.com/temidayoxyz/kino) — 18 Aug 2026
-- 🌱 Created branch `main` in [temidayoxyz/ur](https://github.com/temidayoxyz/ur) — 18 Aug 2026
+> No recent public activity yet — pushes, PRs and stars will show up here.
 <!--RECENT_ACTIVITY:end-->
 
 ---
@@ -108,5 +105,5 @@ This chart is **generated automatically** every 6 hours by a GitHub Action — i
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=temidayoxyz&label=Profile%20Views&color=38bdf8&style=flat-square&abbreviated=true" alt="Profile views" />
   <br />
-  <sub>✨ Profile auto-updates itself — stats, activity log & repo chart refresh via GitHub Actions</sub>
+  <sub>✨ Profile auto-updates itself — activity log, stats, streak & charts refresh via GitHub Actions</sub>
 </div>

@@ -25,9 +25,37 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MAX_LINES: "8"
 
-      # 2. Public vs Private repo donut chart (needs GH_TOKEN for private count)
+      # 2. Self-generated charts (no external image services needed)
       - name: Generate repo breakdown chart
         run: node scripts/repo-breakdown.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+
+      - name: Generate stats card
+        run: node scripts/stats.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+
+      - name: Generate top languages chart
+        run: node scripts/languages.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+
+      - name: Generate streak card
+        run: node scripts/streak.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+
+      - name: Generate latest projects card
+        run: node scripts/featured.mjs
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -36,7 +64,7 @@ jobs:
       - name: Commit profile changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh activity log & repo chart"
+          commit_message: "chore: refresh activity log & charts"
           file_pattern: "README.md charts/*.svg"
 
       # 3. Contribution snake -> pushed to the 'output' branch

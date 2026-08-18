@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="250" viewBox="0 0 460 250">
+  <rect width="460" height="250" fill="#0d1117" rx="14"/>
+  <text x="230" y="34" fill="#c8d3f5" font-size="19" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">Contribution Streak</text>
+  <text x="24" y="70" font-size="17" font-family="Segoe UI, Arial, sans-serif">🔥</text>
+  <text x="56" y="71" fill="#c8d3f5" font-size="15" font-family="Segoe UI, Arial, sans-serif">Current streak</text>
+  <text x="436" y="71" fill="#ffffff" font-size="15" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">7 days</text>
+  <text x="24" y="100" font-size="17" font-family="Segoe UI, Arial, sans-serif">🏆</text>
+  <text x="56" y="101" fill="#c8d3f5" font-size="15" font-family="Segoe UI, Arial, sans-serif">Longest streak</text>
+  <text x="436" y="101" fill="#ffffff" font-size="15" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">15 days</text>
+  <text x="24" y="130" font-size="17" font-family="Segoe UI, Arial, sans-serif">📅</text>
+  <text x="56" y="131" fill="#c8d3f5" font-size="15" font-family="Segoe UI, Arial, sans-serif">Active days (1y)</text>
+  <text x="436" y="131" fill="#ffffff" font-size="15" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">56</text>
+  <text x="24" y="160" font-size="17" font-family="Segoe UI, Arial, sans-serif">✅</text>
+  <text x="56" y="161" fill="#c8d3f5" font-size="15" font-family="Segoe UI, Arial, sans-serif">Total contributions (1y)</text>
+  <text x="436" y="161" fill="#ffffff" font-size="15" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">466</text>
+  <text x="24" y="190" font-size="17" font-family="Segoe UI, Arial, sans-serif">🌟</text>
+  <text x="56" y="191" fill="#c8d3f5" font-size="15" font-family="Segoe UI, Arial, sans-serif">Best day</text>
+  <text x="436" y="191" fill="#ffffff" font-size="15" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">78 on 2026-08-18</text>
+  <text x="230" y="237" fill="#8b949e" font-size="12" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">Computed from the GitHub contribution calendar — refreshed every 6 hours</text>
+</svg>
