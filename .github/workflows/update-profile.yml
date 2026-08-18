@@ -19,12 +19,11 @@ jobs:
 
       # 1. Live activity log (pushes, PRs, stars) -> rewrites the README section
       - name: Update recent activity
-        uses: Readme-Workflows/recent-activity@main
+        run: node scripts/update-activity.mjs
         env:
+          OWNER: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "chore: update recent activity"
-          MAX_LINES: 8
+          MAX_LINES: "8"
 
       # 2. Public vs Private repo donut chart (needs GH_TOKEN for private count)
       - name: Generate repo breakdown chart
@@ -34,11 +33,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OWNER: ${{ github.repository_owner }}
 
-      - name: Commit chart changes
+      - name: Commit profile changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh repo breakdown chart"
-          file_pattern: charts/*.svg
+          commit_message: "chore: refresh activity log & repo chart"
+          file_pattern: "README.md charts/*.svg"
 
       # 3. Contribution snake -> pushed to the 'output' branch
       - name: Generate contribution snake
