@@ -1,0 +1,58 @@
+name: Update Profile
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 1. Live activity log (commits, PRs, stars) -> rewrites the README section
+      - name: Update GitHub Activity Log
+        uses: jamesgeorge007/github-activity-readme@master
+        with:
+          COMMIT_MSG: "chore: update activity log"
+          MAX_LINES: 8
+
+      # 2. Public vs Private repo donut chart (needs GH_TOKEN for private count)
+      - name: Generate repo breakdown chart
+        run: node scripts/repo-breakdown.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+
+      - name: Commit chart changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh repo breakdown chart"
+          file_pattern: charts/*.svg
+
+      # 3. Contribution snake -> pushed to the 'output' branch
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
