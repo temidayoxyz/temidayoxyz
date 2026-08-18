@@ -3,13 +3,13 @@
 // Replaces the github-readme-stats top-langs image (which was down).
 //
 // Usage: node scripts/languages.mjs
-// Env:   OWNER (required), GH_TOKEN (optional), GITHUB_TOKEN (fallback)
+// Env:   OWNER (required), GITHUB_TOKEN (automatic in Actions)
 
 import { writeFileSync } from "node:fs";
 import { esc, fmt, fetchJson, paginateRepos, svgCard, barRows } from "./chart-lib.mjs";
 
 const OWNER = process.env.OWNER || "temidayoxyz";
-const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN || "";
+const TOKEN = process.env.GITHUB_TOKEN || "";
 const TOP_N = 8;
 
 const COLORS = {
@@ -57,7 +57,7 @@ async function main() {
   const footer =
     total === 0
       ? "No languages detected yet"
-      : `Across ${seen} repos${process.env.GH_TOKEN ? " (public + private)" : ""} · ${fmt(total).replace("B", "")} bytes of code`;
+      : `Across ${seen} repos · ${fmt(total)} bytes of code`;
 
   const svg = svgCard({
     width: 460,

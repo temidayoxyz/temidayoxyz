@@ -1,15 +1,16 @@
 // Generates charts/stats.svg — a self-contained GitHub stats card.
 // Replaces the github-readme-stats.vercel.app image (which was down).
-// Also fills the [count] placeholder in README.md with the live repo count.
+// Also fills the repo-count marker (<!--REPO_COUNT-->) in README.md with the
+// live public repo count.
 //
 // Usage: node scripts/stats.mjs
-// Env:   OWNER (required), GH_TOKEN (optional), GITHUB_TOKEN (fallback)
+// Env:   OWNER (required), GITHUB_TOKEN (automatic in Actions)
 
 import { readFileSync, writeFileSync } from "node:fs";
 import { esc, fmt, fetchJson, paginateRepos, svgCard, statRows } from "./chart-lib.mjs";
 
 const OWNER = process.env.OWNER || "temidayoxyz";
-const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN || "";
+const TOKEN = process.env.GITHUB_TOKEN || "";
 const README = "README.md";
 
 async function searchCount(query) {
@@ -40,17 +41,7 @@ async function main() {
 
   const stars = repos.reduce((sum, r) => sum + (r.stargazers_count || 0), 0);
   const forks = repos.reduce((sum, r) => sum + (r.forks_count || 0), 0);
-  const publicRepos = profile.public_repos ?? repos.length;
-
-  let privateRepos = null;
-  if (process.env.GH_TOKEN) {
-    try {
-      const me = await fetchJson("https://api.github.com/user", process.env.GH_TOKEN);
-      if (me.total_private_repos != null) privateRepos = me.total_private_repos;
-    } catch (err) {
-      console.warn("Could not read private repo count:", err.message);
-    }
-  }
+  const totalRepos = profile.public_repos ?? repos.length;
 
   const [prs, issues, commits] = await Promise.all([
     searchCount(`type:pr author:${OWNER}`),
@@ -58,12 +49,9 @@ async function main() {
     commitCount(),
   ]);
 
-  const totalRepos = publicRepos + (privateRepos ?? 0);
-  const repoValue = privateRepos != null ? `${fmt(totalRepos)} (${fmt(privateRepos)} private)` : `${fmt(publicRepos)} public`;
-
   const rows = [
     { icon: "👥", label: "Followers", value: fmt(profile.followers) },
-    { icon: "📦", label: "Repositories", value: repoValue },
+    { icon: "📦", label: "Repositories", value: fmt(totalRepos) },
     { icon: "⭐", label: "Stars earned", value: fmt(stars) },
     { icon: "🍴", label: "Forks", value: fmt(forks) },
     { icon: "🔀", label: "Pull requests", value: fmt(prs) },
@@ -71,10 +59,7 @@ async function main() {
     { icon: "✅", label: "Commits", value: fmt(commits) },
   ];
 
-  const footer =
-    privateRepos != null
-      ? "Auto-generated — includes private repos, refreshed every 6 hours"
-      : "Add a GH_TOKEN secret (PAT with repo scope) to include private repos";
+  const footer = "Auto-generated — refreshed every 6 hours";
 
   const svg = svgCard({
     width: 460,

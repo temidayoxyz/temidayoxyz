@@ -3,13 +3,13 @@
 // Replaces the streak-stats.demolab.com image so no external service is needed.
 //
 // Usage: node scripts/streak.mjs
-// Env:   OWNER (required), GH_TOKEN (optional), GITHUB_TOKEN (fallback)
+// Env:   OWNER (required), GITHUB_TOKEN (automatic in Actions)
 
 import { writeFileSync } from "node:fs";
 import { esc, fmt, svgCard, statRows } from "./chart-lib.mjs";
 
 const OWNER = process.env.OWNER || "temidayoxyz";
-const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN || "";
+const TOKEN = process.env.GITHUB_TOKEN || "";
 
 async function contributionDays() {
   const query = `query { user(login: "${OWNER}") { contributionsCollection { contributionCalendar { totalContributions weeks { contributionDays { date contributionCount } } } } } }`;
@@ -35,7 +35,7 @@ async function main() {
       width: 460,
       height: 120,
       title: "Streak",
-      body: `<text x="230" y="78" fill="#8b949e" font-size="14" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">Streak data unavailable — add a GH_TOKEN secret (PAT with read:user scope)</text>`,
+      body: `<text x="230" y="78" fill="#8b949e" font-size="14" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">Streak data temporarily unavailable — it will reappear on the next refresh</text>`,
     });
     writeFileSync("charts/streak.svg", fallback);
     console.log("Wrote charts/streak.svg (fallback note)");

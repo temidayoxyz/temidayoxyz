@@ -19,7 +19,7 @@
 
 ### 🚀 Currently Building
 
-- 🚧 Building **WULLAP** ([wullap.com](https://wullap.com)) in public
+- 🚧 Building **[WULLAP](https://wullap.com)** in public
 
 ### 🌱 About Me
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 GitHub Analytics — public **and** private
+### 📊 GitHub Analytics
 
 <div align="center">
 
@@ -52,14 +52,6 @@
 </div>
 
 ---
-
-### 🍩 Public vs Private Repositories
-
-This chart is **generated automatically** every 6 hours by a GitHub Action — it counts *all* your repos, including private ones (the part GitHub normally hides from visitors).
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/temidayoxyz/temidayoxyz/main/charts/repo-breakdown.svg" alt="Public vs private repos chart" width="480" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=temidayoxyz&theme=tokyo-night&hide_border=true&bg_color=0d1117&height=300" width="90%" alt="Activity graph" />

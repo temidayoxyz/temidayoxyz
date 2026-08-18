@@ -3,13 +3,13 @@
 // disabled), with something genuinely useful: a "latest projects" spotlight.
 //
 // Usage: node scripts/featured.mjs
-// Env:   OWNER (required), GH_TOKEN (optional), GITHUB_TOKEN (fallback)
+// Env:   OWNER (required), GITHUB_TOKEN (automatic in Actions)
 
 import { writeFileSync } from "node:fs";
 import { esc, fmt, fetchJson, paginateRepos, svgCard } from "./chart-lib.mjs";
 
 const OWNER = process.env.OWNER || "temidayoxyz";
-const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN || "";
+const TOKEN = process.env.GITHUB_TOKEN || "";
 const COUNT = 4;
 
 const LANG_COLORS = {
