@@ -17,13 +17,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 1. Live activity log (commits, PRs, stars) -> rewrites the README section
-      - name: Update GitHub Activity Log
-        uses: jamesgeorge007/github-activity-readme@master
+      # 1. Live activity log (pushes, PRs, stars) -> rewrites the README section
+      - name: Update recent activity
+        uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "chore: update activity log"
+          COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 8
 
       # 2. Public vs Private repo donut chart (needs GH_TOKEN for private count)

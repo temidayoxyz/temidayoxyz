@@ -92,9 +92,8 @@ This chart is **generated automatically** every 6 hours by a GitHub Action — i
 
 ### ⚡ Recent Activity — live log
 
-<!--START_SECTION:activity-->
-<!-- This section is updated automatically by the update-profile GitHub Action -->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
