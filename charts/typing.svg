@@ -1,13 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="44" viewBox="0 0 640 44">
   <defs><clipPath id="c0"><rect x="24" y="0" width="0" height="44"><animate attributeName="width" values="0;0;420.0;420.0;0" keyTimes="0;0.000;0.060;0.210;1" dur="12s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c1"><rect x="24" y="0" width="0" height="44"><animate attributeName="width" values="0;0;600.0;600.0;0" keyTimes="0;0.250;0.310;0.460;1" dur="12s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c2"><rect x="24" y="0" width="0" height="44"><animate attributeName="width" values="0;0;600.0;600.0;0" keyTimes="0;0.500;0.560;0.710;1" dur="12s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c3"><rect x="24" y="0" width="0" height="44"><animate attributeName="width" values="0;0;384.0;384.0;0" keyTimes="0;0.750;0.810;0.960;1" dur="12s" repeatCount="indefinite"/></rect></clipPath></defs>
+  <g>
   <text x="24" y="32" fill="#38BDF8" font-family="Fira Code, monospace" font-size="20" clip-path="url(#c0)">🌍 Just another dev on the internet</text>
   <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.000;0.020;0.210;1" dur="12s" repeatCount="indefinite"/>
+</g>
+  <g>
   <text x="24" y="32" fill="#38BDF8" font-family="Fira Code, monospace" font-size="20" clip-path="url(#c1)">🛠️ Building useful things... sometimes by accident</text>
   <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.250;0.270;0.460;1" dur="12s" repeatCount="indefinite"/>
+</g>
+  <g>
   <text x="24" y="32" fill="#38BDF8" font-family="Fira Code, monospace" font-size="20" clip-path="url(#c2)">🚀 Ridiculously cracked agentic fullstack engineer</text>
   <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.500;0.520;0.710;1" dur="12s" repeatCount="indefinite"/>
+</g>
+  <g>
   <text x="24" y="32" fill="#38BDF8" font-family="Fira Code, monospace" font-size="20" clip-path="url(#c3)">✨ Learning, shipping, repeating</text>
   <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.750;0.770;0.960;1" dur="12s" repeatCount="indefinite"/>
+</g>
   <g>
   <animateTransform attributeName="transform" type="translate" calcMode="discrete"
     values="450 0;630 0;630 0;414 0;450 0"

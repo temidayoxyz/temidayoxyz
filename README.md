@@ -44,13 +44,6 @@
 
 </div>
 
-<div align="center">
-
-<!-- Daily show-ups: contribution calendar (public) -->
-<img src="https://raw.githubusercontent.com/temidayoxyz/temidayoxyz/main/charts/calendar.svg" alt="Contribution calendar" />
-
-</div>
-
 ---
 
 <div align="center">

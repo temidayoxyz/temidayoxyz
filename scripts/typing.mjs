@@ -40,11 +40,13 @@ const segments = LINES.map((_, i) => {
   const typeOn = s + 0.06; // typing reveal phase (~0.7s)
   const typeOff = e - 0.04; // fade-out phase (~0.5s)
   return {
-    s,
-    e,
     clip: `<clipPath id="c${i}"><rect x="${X}" y="0" width="0" height="44"><animate attributeName="width" values="0;0;${w.toFixed(1)};${w.toFixed(1)};0" keyTimes="0;${s.toFixed(3)};${typeOn.toFixed(3)};${typeOff.toFixed(3)};1" dur="${DUR}s" repeatCount="indefinite"/></rect></clipPath>`,
-    text: `<text x="${X}" y="${Y}" fill="${COLOR}" font-family="${FONT}" font-size="${SIZE}" clip-path="url(#c${i})">${LINES[i]}</text>
-  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;${s.toFixed(3)};${(s + 0.02).toFixed(3)};${typeOff.toFixed(3)};1" dur="${DUR}s" repeatCount="indefinite"/>`,
+    // The <animate> must be a child of the group that contains the <text>,
+    // otherwise it animates the root <svg> element instead of the line.
+    group: `<g>
+  <text x="${X}" y="${Y}" fill="${COLOR}" font-family="${FONT}" font-size="${SIZE}" clip-path="url(#c${i})">${LINES[i]}</text>
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;${s.toFixed(3)};${(s + 0.02).toFixed(3)};${typeOff.toFixed(3)};1" dur="${DUR}s" repeatCount="indefinite"/>
+</g>`,
   };
 });
 
@@ -62,7 +64,7 @@ const caretTransform = `<g>
 
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="44" viewBox="0 0 ${W} 44">
   <defs>${segments.map((s) => s.clip).join("")}</defs>
-  ${segments.map((s) => s.text).join("\n  ")}
+  ${segments.map((s) => s.group).join("\n  ")}
   ${caretTransform}
 </svg>`;
 

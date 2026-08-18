@@ -50,12 +50,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OWNER: ${{ github.repository_owner }}
 
-      - name: Generate contribution calendar
-        run: node scripts/calendar.mjs
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          OWNER: ${{ github.repository_owner }}
-
       - name: Generate activity chart
         run: node scripts/activity.mjs
         env:
