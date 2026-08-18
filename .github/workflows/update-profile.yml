@@ -50,6 +50,27 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OWNER: ${{ github.repository_owner }}
 
+      - name: Generate contribution calendar
+        run: node scripts/calendar.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+
+      - name: Generate activity chart
+        run: node scripts/activity.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+
+      - name: Generate tech stack card
+        run: node scripts/techstack.mjs
+
+      - name: Generate typing banner
+        run: node scripts/typing.mjs
+
+      - name: Generate header banner
+        run: node scripts/header.mjs
+
       - name: Commit profile changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

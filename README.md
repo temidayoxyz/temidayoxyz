@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there%2C%20I%27m%20Temidayo%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header" />
+  <img src="https://raw.githubusercontent.com/temidayoxyz/temidayoxyz/main/charts/header.svg" width="100%" alt="header" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=%F0%9F%8C%8D+Just+another+dev+on+the+internet;%F0%9F%9B%A0%EF%B8%8F+Building+useful+things...+sometimes+by+accident;%F0%9F%8E%A8+Front-end+%26+web+tinkerer;%F0%9F%9A%80+Learning%2C+shipping%2C+repeating)](https://git.io/typing-svg)
+![Typing SVG](https://raw.githubusercontent.com/temidayoxyz/temidayoxyz/main/charts/typing.svg)
 
 <p align="center">
   <a href="https://twitter.com/temidayoxyz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
@@ -47,14 +47,14 @@
 <div align="center">
 
 <!-- Daily show-ups: contribution calendar (public) -->
-<img src="https://ghchart.rshah.org/38BDF8/temidayoxyz" alt="Contribution calendar" />
+<img src="https://raw.githubusercontent.com/temidayoxyz/temidayoxyz/main/charts/calendar.svg" alt="Contribution calendar" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=temidayoxyz&theme=tokyo-night&hide_border=true&bg_color=0d1117&height=300" width="90%" alt="Activity graph" />
+  <img src="https://raw.githubusercontent.com/temidayoxyz/temidayoxyz/main/charts/activity.svg" width="90%" alt="Activity graph" />
 </div>
 
 ---
@@ -81,7 +81,7 @@
 ### 🧰 Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode,linux" alt="Tech stack" />
+  <img src="https://raw.githubusercontent.com/temidayoxyz/temidayoxyz/main/charts/techstack.svg" alt="Tech stack" />
 </div>
 
 ---
