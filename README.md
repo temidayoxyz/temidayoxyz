@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->108<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->109<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,6 +82,7 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) — 19 Aug 2026
 - 🚀 Pushed to [temidayoxyz/authplate](https://github.com/temidayoxyz/authplate) on `master` — 18 Aug 2026
 - 🌱 Created branch `master` in [temidayoxyz/authplate](https://github.com/temidayoxyz/authplate) — 18 Aug 2026
 - 🚀 Pushed to [temidayoxyz/studio](https://github.com/temidayoxyz/studio) on `main` — 18 Aug 2026
@@ -89,7 +90,6 @@
 - 🌱 Created branch `main` in [temidayoxyz/sol](https://github.com/temidayoxyz/sol) — 18 Aug 2026
 - 🌱 Created branch `main` in [temidayoxyz/rytme](https://github.com/temidayoxyz/rytme) — 18 Aug 2026
 - 🌱 Created branch `main` in [temidayoxyz/haven](https://github.com/temidayoxyz/haven) — 18 Aug 2026
-- 🌱 Created branch `main` in [temidayoxyz/atlas](https://github.com/temidayoxyz/atlas) — 18 Aug 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
