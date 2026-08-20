@@ -82,8 +82,8 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) — 20 Aug 2026
 - ⭐ Starred [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) — 19 Aug 2026
-- 🚀 Pushed to [temidayoxyz/surfercut](https://github.com/temidayoxyz/surfercut) on `main` — 19 Aug 2026
 - 🚀 Pushed to [temidayoxyz/surfercut](https://github.com/temidayoxyz/surfercut) on `main` — 19 Aug 2026
 - 🚀 Pushed to [temidayoxyz/surfercut](https://github.com/temidayoxyz/surfercut) on `main` — 19 Aug 2026
 - 🚀 Pushed to [temidayoxyz/surfercut](https://github.com/temidayoxyz/surfercut) on `main` — 19 Aug 2026
