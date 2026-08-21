@@ -19,7 +19,7 @@
   <circle cx="30" cy="163" r="6" fill="#f1e05a"/>
   <text x="46" y="167" fill="#c8d3f5" font-size="14" font-family="Segoe UI, Arial, sans-serif">JavaScript</text>
   <rect x="134" y="152" width="240" height="12" rx="6" fill="#1f2430"/>
-  <rect x="134" y="152" width="23" height="12" rx="6" fill="#f1e05a"/>
+  <rect x="134" y="152" width="24" height="12" rx="6" fill="#f1e05a"/>
   <text x="386" y="161" fill="#ffffff" font-size="13" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">9.8%</text>
   <circle cx="30" cy="195" r="6" fill="#e34c26"/>
   <text x="46" y="199" fill="#c8d3f5" font-size="14" font-family="Segoe UI, Arial, sans-serif">HTML</text>
@@ -41,5 +41,5 @@
   <rect x="134" y="280" width="240" height="12" rx="6" fill="#1f2430"/>
   <rect x="134" y="280" width="1" height="12" rx="6" fill="#c6538c"/>
   <text x="386" y="289" fill="#ffffff" font-size="13" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">0.5%</text>
-  <text x="230" y="343" fill="#8b949e" font-size="12" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">Across 109 repos · 262,562,817 bytes of code</text>
+  <text x="230" y="343" fill="#8b949e" font-size="12" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">Across 110 repos · 262,716,039 bytes of code</text>
 </svg>
