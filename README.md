@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->111<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->112<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 🚀 Pushed to [temidayoxyz/chatterm](https://github.com/temidayoxyz/chatterm) on `main` — 22 Aug 2026
+- 🌱 Created branch `main` in [temidayoxyz/ox-alpha-page](https://github.com/temidayoxyz/ox-alpha-page) — 22 Aug 2026
 - ⭐ Starred [MengTo/threeui](https://github.com/MengTo/threeui) — 22 Aug 2026
 - 🚀 Pushed to [temidayoxyz/xyz-os](https://github.com/temidayoxyz/xyz-os) on `master` — 21 Aug 2026
 - 🚀 Pushed to [temidayoxyz/zodyark](https://github.com/temidayoxyz/zodyark) on `main` — 21 Aug 2026
 - 🚀 Pushed to [temidayoxyz/xyz-os](https://github.com/temidayoxyz/xyz-os) on `master` — 21 Aug 2026
 - 🚀 Pushed to [temidayoxyz/surfercut](https://github.com/temidayoxyz/surfercut) on `main` — 21 Aug 2026
 - 🌱 Created branch `main` in [temidayoxyz/surfercut](https://github.com/temidayoxyz/surfercut) — 21 Aug 2026
-- 🚀 Pushed to [temidayoxyz/surfercut](https://github.com/temidayoxyz/surfercut) on `main` — 21 Aug 2026
-- 🚀 Pushed to [temidayoxyz/surfercut](https://github.com/temidayoxyz/surfercut) on `main` — 21 Aug 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
