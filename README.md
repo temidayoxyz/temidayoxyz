@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->113<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->114<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,6 +82,7 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 🚀 Pushed to [temidayoxyz/fast](https://github.com/temidayoxyz/fast) on `main` — 25 Aug 2026
 - ⭐ Starred [cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) — 25 Aug 2026
 - 🚀 Pushed to [temidayoxyz/uni-olodo](https://github.com/temidayoxyz/uni-olodo) on `main` — 24 Aug 2026
 - 🚀 Pushed to [temidayoxyz/uni-olodo](https://github.com/temidayoxyz/uni-olodo) on `main` — 24 Aug 2026
@@ -89,7 +90,6 @@
 - 🚀 Pushed to [temidayoxyz/uni-olodo](https://github.com/temidayoxyz/uni-olodo) on `main` — 24 Aug 2026
 - ⭐ Starred [DreamsHive/cloakmail](https://github.com/DreamsHive/cloakmail) — 24 Aug 2026
 - 🚀 Pushed to [temidayoxyz/bhcoopdemo](https://github.com/temidayoxyz/bhcoopdemo) on `master` — 23 Aug 2026
-- ⭐ Starred [xai-org/grok-build](https://github.com/xai-org/grok-build) — 23 Aug 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
