@@ -82,6 +82,7 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) — 25 Aug 2026
 - 🚀 Pushed to [temidayoxyz/uni-olodo](https://github.com/temidayoxyz/uni-olodo) on `main` — 24 Aug 2026
 - 🚀 Pushed to [temidayoxyz/uni-olodo](https://github.com/temidayoxyz/uni-olodo) on `main` — 24 Aug 2026
 - 🚀 Pushed to [temidayoxyz/uni-olodo](https://github.com/temidayoxyz/uni-olodo) on `main` — 24 Aug 2026
@@ -89,7 +90,6 @@
 - ⭐ Starred [DreamsHive/cloakmail](https://github.com/DreamsHive/cloakmail) — 24 Aug 2026
 - 🚀 Pushed to [temidayoxyz/bhcoopdemo](https://github.com/temidayoxyz/bhcoopdemo) on `master` — 23 Aug 2026
 - ⭐ Starred [xai-org/grok-build](https://github.com/xai-org/grok-build) — 23 Aug 2026
-- 🚀 Pushed to [temidayoxyz/chatterm](https://github.com/temidayoxyz/chatterm) on `main` — 22 Aug 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
