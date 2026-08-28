@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) — 27 Aug 2026
+- ⭐ Starred [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) — 27 Aug 2026
 - 🚀 Pushed to [temidayoxyz/workerdeck](https://github.com/temidayoxyz/workerdeck) on `main` — 26 Aug 2026
 - ⭐ Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — 27 Aug 2026
 - ⭐ Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) — 26 Aug 2026
 - ⭐ Starred [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — 26 Aug 2026
 - ⭐ Starred [fralapo/clippyme](https://github.com/fralapo/clippyme) — 26 Aug 2026
 - ⭐ Starred [artbyjazi/autoclip](https://github.com/artbyjazi/autoclip) — 26 Aug 2026
-- ⭐ Starred [PriyeshPandey2000/ai-video-clipper](https://github.com/PriyeshPandey2000/ai-video-clipper) — 26 Aug 2026
-- ⭐ Starred [Anil-matcha/AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) — 26 Aug 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
