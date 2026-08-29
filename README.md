@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) — 29 Aug 2026
+- ⭐ Starred [chrisgreg/boop](https://github.com/chrisgreg/boop) — 29 Aug 2026
 - ⭐ Starred [Stremio/stremio-web](https://github.com/Stremio/stremio-web) — 28 Aug 2026
 - ⭐ Starred [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) — 27 Aug 2026
 - ⭐ Starred [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) — 27 Aug 2026
 - 🚀 Pushed to [temidayoxyz/workerdeck](https://github.com/temidayoxyz/workerdeck) on `main` — 26 Aug 2026
 - ⭐ Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — 27 Aug 2026
 - ⭐ Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) — 26 Aug 2026
-- ⭐ Starred [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — 26 Aug 2026
-- ⭐ Starred [fralapo/clippyme](https://github.com/fralapo/clippyme) — 26 Aug 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
