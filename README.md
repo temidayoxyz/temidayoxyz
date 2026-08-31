@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [polarsource/polar](https://github.com/polarsource/polar) — 31 Aug 2026
+- ⭐ Starred [kwakseongjae/dawn-cut](https://github.com/kwakseongjae/dawn-cut) — 31 Aug 2026
+- ⭐ Starred [timkulbaev/ai-video-editor](https://github.com/timkulbaev/ai-video-editor) — 31 Aug 2026
+- ⭐ Starred [SysAdminDoc/OpenCut](https://github.com/SysAdminDoc/OpenCut) — 31 Aug 2026
+- ⭐ Starred [wassgha/rescript](https://github.com/wassgha/rescript) — 31 Aug 2026
 - ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca) — 31 Aug 2026
 - ⭐ Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — 31 Aug 2026
 - ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — 31 Aug 2026
-- ⭐ Starred [aadithyanr/yname](https://github.com/aadithyanr/yname) — 30 Aug 2026
-- ⭐ Starred [hieunc229/mailflare](https://github.com/hieunc229/mailflare) — 30 Aug 2026
-- ⭐ Starred [DivinPrince/quickinbox](https://github.com/DivinPrince/quickinbox) — 30 Aug 2026
-- ⭐ Starred [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) — 29 Aug 2026
-- ⭐ Starred [chrisgreg/boop](https://github.com/chrisgreg/boop) — 29 Aug 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
