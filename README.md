@@ -83,13 +83,13 @@
 
 <!--RECENT_ACTIVITY:start-->
 - 🚀 Pushed to [temidayoxyz/workerdeck](https://github.com/temidayoxyz/workerdeck) on `main` — 1 Sept 2026
+- 🚀 Pushed to [temidayoxyz/workerdeck](https://github.com/temidayoxyz/workerdeck) on `main` — 1 Sept 2026
 - ⭐ Starred [jakubkrehel/skills](https://github.com/jakubkrehel/skills) — 1 Sept 2026
 - ⭐ Starred [browser-use/video-use](https://github.com/browser-use/video-use) — 1 Sept 2026
 - ⭐ Starred [polarsource/polar](https://github.com/polarsource/polar) — 31 Aug 2026
 - ⭐ Starred [kwakseongjae/dawn-cut](https://github.com/kwakseongjae/dawn-cut) — 31 Aug 2026
 - ⭐ Starred [timkulbaev/ai-video-editor](https://github.com/timkulbaev/ai-video-editor) — 31 Aug 2026
 - ⭐ Starred [SysAdminDoc/OpenCut](https://github.com/SysAdminDoc/OpenCut) — 31 Aug 2026
-- ⭐ Starred [wassgha/rescript](https://github.com/wassgha/rescript) — 31 Aug 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
