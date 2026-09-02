@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->114<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->115<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,6 +82,7 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [emilkowalski/skills](https://github.com/emilkowalski/skills) — 2 Sept 2026
 - ⭐ Starred [Ohswedd/pymotion](https://github.com/Ohswedd/pymotion) — 2 Sept 2026
 - ⭐ Starred [Yuan-ManX/open-motion](https://github.com/Yuan-ManX/open-motion) — 2 Sept 2026
 - 🚀 Pushed to [temidayoxyz/workerdeck](https://github.com/temidayoxyz/workerdeck) on `main` — 1 Sept 2026
@@ -89,7 +90,6 @@
 - 🚀 Pushed to [temidayoxyz/workerdeck](https://github.com/temidayoxyz/workerdeck) on `main` — 1 Sept 2026
 - ⭐ Starred [jakubkrehel/skills](https://github.com/jakubkrehel/skills) — 1 Sept 2026
 - ⭐ Starred [browser-use/video-use](https://github.com/browser-use/video-use) — 1 Sept 2026
-- ⭐ Starred [polarsource/polar](https://github.com/polarsource/polar) — 31 Aug 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
