@@ -82,6 +82,7 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) — 6 Sept 2026
 - ⭐ Starred [radyhaggag/live_score](https://github.com/radyhaggag/live_score) — 6 Sept 2026
 - ⭐ Starred [rezarahiminia/livescoreFootball](https://github.com/rezarahiminia/livescoreFootball) — 6 Sept 2026
 - 🌱 Created branch `main` in [temidayoxyz/overflo](https://github.com/temidayoxyz/overflo) — 4 Sept 2026
@@ -89,7 +90,6 @@
 - ⭐ Starred [modelence/open-soccer](https://github.com/modelence/open-soccer) — 6 Sept 2026
 - 🍴 Forked [aadithyanr/yname](https://github.com/aadithyanr/yname) — 5 Sept 2026
 - 🚀 Pushed to [temidayoxyz/workerdeck](https://github.com/temidayoxyz/workerdeck) on `main` — 1 Sept 2026
-- ⭐ Starred [emilkowalski/skills](https://github.com/emilkowalski/skills) — 2 Sept 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
