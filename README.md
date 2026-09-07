@@ -82,6 +82,7 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) — 7 Sept 2026
 - ⭐ Starred [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) — 6 Sept 2026
 - ⭐ Starred [radyhaggag/live_score](https://github.com/radyhaggag/live_score) — 6 Sept 2026
 - ⭐ Starred [rezarahiminia/livescoreFootball](https://github.com/rezarahiminia/livescoreFootball) — 6 Sept 2026
@@ -89,7 +90,6 @@
 - ⭐ Starred [monet-design/monet-registry](https://github.com/monet-design/monet-registry) — 6 Sept 2026
 - ⭐ Starred [modelence/open-soccer](https://github.com/modelence/open-soccer) — 6 Sept 2026
 - 🍴 Forked [aadithyanr/yname](https://github.com/aadithyanr/yname) — 5 Sept 2026
-- 🚀 Pushed to [temidayoxyz/workerdeck](https://github.com/temidayoxyz/workerdeck) on `main` — 1 Sept 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
