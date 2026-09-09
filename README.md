@@ -82,6 +82,7 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [different-ai/openwork](https://github.com/different-ai/openwork) — 9 Sept 2026
 - ⭐ Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) — 7 Sept 2026
 - ⭐ Starred [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) — 7 Sept 2026
 - ⭐ Starred [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) — 6 Sept 2026
@@ -89,7 +90,6 @@
 - ⭐ Starred [rezarahiminia/livescoreFootball](https://github.com/rezarahiminia/livescoreFootball) — 6 Sept 2026
 - 🌱 Created branch `main` in [temidayoxyz/overflo](https://github.com/temidayoxyz/overflo) — 4 Sept 2026
 - ⭐ Starred [monet-design/monet-registry](https://github.com/monet-design/monet-registry) — 6 Sept 2026
-- ⭐ Starred [modelence/open-soccer](https://github.com/modelence/open-soccer) — 6 Sept 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
