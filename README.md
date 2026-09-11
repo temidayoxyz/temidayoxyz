@@ -82,6 +82,7 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) — 11 Sept 2026
 - 🚀 Pushed to [temidayoxyz/telewiki](https://github.com/temidayoxyz/telewiki) on `main` — 8 Sept 2026
 - 🚀 Pushed to [temidayoxyz/chambot](https://github.com/temidayoxyz/chambot) on `main` — 10 Sept 2026
 - 🚀 Pushed to [temidayoxyz/chambot](https://github.com/temidayoxyz/chambot) on `gh-pages` — 10 Sept 2026
@@ -89,7 +90,6 @@
 - 🌱 Created branch `main` in [temidayoxyz/chambot](https://github.com/temidayoxyz/chambot) — 10 Sept 2026
 - ⭐ Starred [different-ai/openwork](https://github.com/different-ai/openwork) — 9 Sept 2026
 - ⭐ Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) — 7 Sept 2026
-- ⭐ Starred [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) — 7 Sept 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
