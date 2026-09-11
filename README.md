@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->119<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->120<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 🌱 Created branch `main` in [temidayoxyz/deep-browser](https://github.com/temidayoxyz/deep-browser) — 11 Sept 2026
+- 🚀 Pushed to [temidayoxyz/deep-tariff](https://github.com/temidayoxyz/deep-tariff) on `master` — 11 Sept 2026
 - ⭐ Starred [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) — 11 Sept 2026
 - 🚀 Pushed to [temidayoxyz/telewiki](https://github.com/temidayoxyz/telewiki) on `main` — 8 Sept 2026
 - 🚀 Pushed to [temidayoxyz/chambot](https://github.com/temidayoxyz/chambot) on `main` — 10 Sept 2026
 - 🚀 Pushed to [temidayoxyz/chambot](https://github.com/temidayoxyz/chambot) on `gh-pages` — 10 Sept 2026
 - 🚀 Pushed to [temidayoxyz/telewiki](https://github.com/temidayoxyz/telewiki) on `main` — 10 Sept 2026
 - 🌱 Created branch `main` in [temidayoxyz/chambot](https://github.com/temidayoxyz/chambot) — 10 Sept 2026
-- ⭐ Starred [different-ai/openwork](https://github.com/different-ai/openwork) — 9 Sept 2026
-- ⭐ Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) — 7 Sept 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
