@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->127<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->128<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 🚀 Pushed to [temidayoxyz/deep-opencode](https://github.com/temidayoxyz/deep-opencode) on `main` — 30 Sept 2026
+- 🚀 Pushed to [temidayoxyz/deep-opencode](https://github.com/temidayoxyz/deep-opencode) on `main` — 30 Sept 2026
+- 🚀 Pushed to [temidayoxyz/telewiki](https://github.com/temidayoxyz/telewiki) on `main` — 29 Sept 2026
 - ⭐ Starred [veedstudio/open-edit](https://github.com/veedstudio/open-edit) — 29 Sept 2026
 - ⭐ Starred [emdash-cms/emdash](https://github.com/emdash-cms/emdash) — 29 Sept 2026
 - ⭐ Starred [ANDRETRIPOL/OpenGhost](https://github.com/ANDRETRIPOL/OpenGhost) — 28 Sept 2026
 - ⭐ Starred [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) — 28 Sept 2026
 - ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase) — 28 Sept 2026
-- 🚀 Pushed to [temidayoxyz/fast](https://github.com/temidayoxyz/fast) on `main` — 27 Sept 2026
-- ⭐ Starred [Rieranthony/product-film-skill](https://github.com/Rieranthony/product-film-skill) — 27 Sept 2026
-- 🚀 Pushed to [temidayoxyz/fast](https://github.com/temidayoxyz/fast) on `main` — 26 Sept 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
