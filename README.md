@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->128<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->129<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 🚀 Pushed to [temidayoxyz/tasma](https://github.com/temidayoxyz/tasma) on `main` — 30 Sept 2026
+- 🚀 Pushed to [temidayoxyz/tasma](https://github.com/temidayoxyz/tasma) on `main` — 30 Sept 2026
+- 🚀 Pushed to [temidayoxyz/tasma](https://github.com/temidayoxyz/tasma) on `main` — 30 Sept 2026
+- 🌱 Created branch `main` in [temidayoxyz/tasma](https://github.com/temidayoxyz/tasma) — 30 Sept 2026
+- 🚀 Pushed to [temidayoxyz/tasma](https://github.com/temidayoxyz/tasma) on `main` — 30 Sept 2026
+- 📦 Released [v0.1.0](https://github.com/temidayoxyz/tasma/releases/tag/v0.1.0) in [temidayoxyz/tasma](https://github.com/temidayoxyz/tasma) — 30 Sept 2026
+- 🚀 Pushed to [temidayoxyz/deep-opencode](https://github.com/temidayoxyz/deep-opencode) on `main` — 30 Sept 2026
 - 🚀 Pushed to [temidayoxyz/deep-browser](https://github.com/temidayoxyz/deep-browser) on `main` — 30 Sept 2026
-- 🚀 Pushed to [temidayoxyz/deep-plugin-manager](https://github.com/temidayoxyz/deep-plugin-manager) on `main` — 30 Sept 2026
-- 🚀 Pushed to [temidayoxyz/deep-browser](https://github.com/temidayoxyz/deep-browser) on `main` — 30 Sept 2026
-- 🚀 Pushed to [temidayoxyz/deep-plugin-manager](https://github.com/temidayoxyz/deep-plugin-manager) on `main` — 30 Sept 2026
-- 🐛 Opened issue [#3](https://github.com/ferndesk/no-slop-motion/issues/3) in [ferndesk/no-slop-motion](https://github.com/ferndesk/no-slop-motion) — 30 Sept 2026
-- ⭐ Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) — 30 Sept 2026
-- ⭐ Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) — 30 Sept 2026
-- ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers) — 30 Sept 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
