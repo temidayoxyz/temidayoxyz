@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->129<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->128<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -83,13 +83,13 @@
 
 <!--RECENT_ACTIVITY:start-->
 - 🚀 Pushed to [temidayoxyz/deep-opencode](https://github.com/temidayoxyz/deep-opencode) on `main` — 30 Sept 2026
+- 🌱 Created branch `main` in [temidayoxyz/tasma](https://github.com/temidayoxyz/tasma) — 1 Oct 2026
+- 🚀 Pushed to [temidayoxyz/deep-opencode](https://github.com/temidayoxyz/deep-opencode) on `main` — 30 Sept 2026
+- 🚀 Pushed to [temidayoxyz/deep-browser](https://github.com/temidayoxyz/deep-browser) on `main` — 30 Sept 2026
+- 🚀 Pushed to [temidayoxyz/deep-opencode](https://github.com/temidayoxyz/deep-opencode) on `main` — 30 Sept 2026
+- 🚀 Pushed to [temidayoxyz/deep-opencode](https://github.com/temidayoxyz/deep-opencode) on `main` — 30 Sept 2026
 - 🚀 Pushed to [temidayoxyz/deep-opencode](https://github.com/temidayoxyz/deep-opencode) on `main` — 30 Sept 2026
 - 🌱 Created branch `main` in [temidayoxyz/deep-opencode](https://github.com/temidayoxyz/deep-opencode) — 30 Sept 2026
-- 🚀 Pushed to [temidayoxyz/deep-opencode](https://github.com/temidayoxyz/deep-opencode) on `main` — 30 Sept 2026
-- ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload) — 1 Oct 2026
-- ⭐ Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) — 1 Oct 2026
-- ⭐ Starred [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) — 1 Oct 2026
-- ⭐ Starred [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) — 1 Oct 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
