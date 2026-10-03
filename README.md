@@ -83,13 +83,13 @@
 
 <!--RECENT_ACTIVITY:start-->
 - 🚀 Pushed to [temidayoxyz/deep-opencode](https://github.com/temidayoxyz/deep-opencode) on `main` — 2 Oct 2026
+- 🚀 Pushed to [temidayoxyz/deep-opencode](https://github.com/temidayoxyz/deep-opencode) on `main` — 2 Oct 2026
 - ⭐ Starred [johnwatson484/dream-league-mobile](https://github.com/johnwatson484/dream-league-mobile) — 2 Oct 2026
 - ⭐ Starred [SportOS/open-goal](https://github.com/SportOS/open-goal) — 2 Oct 2026
 - ⭐ Starred [xbeat/AI-3DSoccer](https://github.com/xbeat/AI-3DSoccer) — 2 Oct 2026
 - ⭐ Starred [google-research/football](https://github.com/google-research/football) — 2 Oct 2026
 - ⭐ Starred [Habeeb-Rahman-CA/soccer5v5-game-godot](https://github.com/Habeeb-Rahman-CA/soccer5v5-game-godot) — 2 Oct 2026
 - ⭐ Starred [francot514/FreeSims](https://github.com/francot514/FreeSims) — 2 Oct 2026
-- ⭐ Starred [LazyDuchess/OpenTS2](https://github.com/LazyDuchess/OpenTS2) — 2 Oct 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
