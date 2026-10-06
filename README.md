@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->128<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->133<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
-- 💬 Commented on [issue #1403](https://github.com/harry0703/MoneyPrinterTurbo/issues/1403) in [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 4 Oct 2026
-- 🚀 Pushed to [temidayoxyz/deep-opencode](https://github.com/temidayoxyz/deep-opencode) on `main` — 2 Oct 2026
-- 🚀 Pushed to [temidayoxyz/deep-opencode](https://github.com/temidayoxyz/deep-opencode) on `main` — 2 Oct 2026
-- ⭐ Starred [johnwatson484/dream-league-mobile](https://github.com/johnwatson484/dream-league-mobile) — 2 Oct 2026
-- ⭐ Starred [SportOS/open-goal](https://github.com/SportOS/open-goal) — 2 Oct 2026
-- ⭐ Starred [xbeat/AI-3DSoccer](https://github.com/xbeat/AI-3DSoccer) — 2 Oct 2026
-- ⭐ Starred [google-research/football](https://github.com/google-research/football) — 2 Oct 2026
-- ⭐ Starred [Habeeb-Rahman-CA/soccer5v5-game-godot](https://github.com/Habeeb-Rahman-CA/soccer5v5-game-godot) — 2 Oct 2026
+- 🍴 Forked [storytold/printcraft](https://github.com/storytold/printcraft) — 6 Oct 2026
+- ⭐ Starred [storytold/printcraft](https://github.com/storytold/printcraft) — 6 Oct 2026
+- 🍴 Forked [storytold/vectorcraft](https://github.com/storytold/vectorcraft) — 6 Oct 2026
+- ⭐ Starred [storytold/vectorcraft](https://github.com/storytold/vectorcraft) — 6 Oct 2026
+- ⭐ Starred [storytold/effectcraft](https://github.com/storytold/effectcraft) — 6 Oct 2026
+- 🍴 Forked [storytold/photocraft](https://github.com/storytold/photocraft) — 6 Oct 2026
+- ⭐ Starred [storytold/photocraft](https://github.com/storytold/photocraft) — 6 Oct 2026
+- ⭐ Starred [storytold/filmcraft](https://github.com/storytold/filmcraft) — 6 Oct 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
