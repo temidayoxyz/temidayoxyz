@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->138<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->139<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
-- 🍴 Forked [storytold/printcraft](https://github.com/storytold/printcraft) — 6 Oct 2026
-- ⭐ Starred [storytold/printcraft](https://github.com/storytold/printcraft) — 6 Oct 2026
-- 🍴 Forked [storytold/vectorcraft](https://github.com/storytold/vectorcraft) — 6 Oct 2026
-- ⭐ Starred [storytold/vectorcraft](https://github.com/storytold/vectorcraft) — 6 Oct 2026
-- ⭐ Starred [storytold/effectcraft](https://github.com/storytold/effectcraft) — 6 Oct 2026
-- 🍴 Forked [storytold/photocraft](https://github.com/storytold/photocraft) — 6 Oct 2026
-- ⭐ Starred [storytold/photocraft](https://github.com/storytold/photocraft) — 6 Oct 2026
-- ⭐ Starred [storytold/filmcraft](https://github.com/storytold/filmcraft) — 6 Oct 2026
+- 🚀 Pushed to [temidayoxyz/unsoftone](https://github.com/temidayoxyz/unsoftone) on `main` — 7 Oct 2026
+- 🚀 Pushed to [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) on `main` — 7 Oct 2026
+- ⭐ Starred [FilipiRafael/racer-web](https://github.com/FilipiRafael/racer-web) — 7 Oct 2026
+- ⭐ Starred [aviaryan/awesome-ai-games](https://github.com/aviaryan/awesome-ai-games) — 7 Oct 2026
+- ⭐ Starred [lappemic/awesome-ai-built-games](https://github.com/lappemic/awesome-ai-built-games) — 7 Oct 2026
+- ⭐ Starred [AgentsLoop/awesome-opus-5.5-games](https://github.com/AgentsLoop/awesome-opus-5.5-games) — 7 Oct 2026
+- 🚀 Pushed to [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) on `main` — 7 Oct 2026
+- ⭐ Starred [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) — 7 Oct 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
