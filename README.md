@@ -84,12 +84,12 @@
 <!--RECENT_ACTIVITY:start-->
 - 🚀 Pushed to [temidayoxyz/unsoftone](https://github.com/temidayoxyz/unsoftone) on `main` — 7 Oct 2026
 - 🚀 Pushed to [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) on `main` — 7 Oct 2026
-- ⭐ Starred [FilipiRafael/racer-web](https://github.com/FilipiRafael/racer-web) — 7 Oct 2026
-- ⭐ Starred [aviaryan/awesome-ai-games](https://github.com/aviaryan/awesome-ai-games) — 7 Oct 2026
-- ⭐ Starred [lappemic/awesome-ai-built-games](https://github.com/lappemic/awesome-ai-built-games) — 7 Oct 2026
-- ⭐ Starred [AgentsLoop/awesome-opus-5.5-games](https://github.com/AgentsLoop/awesome-opus-5.5-games) — 7 Oct 2026
 - 🚀 Pushed to [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) on `main` — 7 Oct 2026
-- ⭐ Starred [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) — 7 Oct 2026
+- 🌱 Created branch `main` in [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) — 7 Oct 2026
+- ⭐ Starred [joshuaswarren/omarchy-apple-dev](https://github.com/joshuaswarren/omarchy-apple-dev) — 8 Oct 2026
+- 🚀 Pushed to [temidayoxyz/unsoftone](https://github.com/temidayoxyz/unsoftone) on `main` — 7 Oct 2026
+- 🚀 Pushed to [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) on `main` — 7 Oct 2026
+- ⭐ Starred [FilipiRafael/racer-web](https://github.com/FilipiRafael/racer-web) — 7 Oct 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
