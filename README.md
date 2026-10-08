@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->139<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->141<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 🚀 Pushed to [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) on `main` — 7 Oct 2026
+- 🚀 Pushed to [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) on `main` — 7 Oct 2026
+- 🚀 Pushed to [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) on `main` — 7 Oct 2026
+- 🚀 Pushed to [temidayoxyz/unsoftone](https://github.com/temidayoxyz/unsoftone) on `main` — 7 Oct 2026
+- 🚀 Pushed to [temidayoxyz/unsoftone](https://github.com/temidayoxyz/unsoftone) on `main` — 7 Oct 2026
 - 🚀 Pushed to [temidayoxyz/unsoftone](https://github.com/temidayoxyz/unsoftone) on `main` — 7 Oct 2026
 - 🚀 Pushed to [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) on `main` — 7 Oct 2026
 - 🚀 Pushed to [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) on `main` — 7 Oct 2026
-- 🌱 Created branch `main` in [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) — 7 Oct 2026
-- ⭐ Starred [joshuaswarren/omarchy-apple-dev](https://github.com/joshuaswarren/omarchy-apple-dev) — 8 Oct 2026
-- 🚀 Pushed to [temidayoxyz/unsoftone](https://github.com/temidayoxyz/unsoftone) on `main` — 7 Oct 2026
-- 🚀 Pushed to [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) on `main` — 7 Oct 2026
-- ⭐ Starred [FilipiRafael/racer-web](https://github.com/FilipiRafael/racer-web) — 7 Oct 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
