@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->141<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->142<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 🍴 Forked [t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl) — 10 Oct 2026
+- ⭐ Starred [t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl) — 10 Oct 2026
 - 🚀 Pushed to [temidayoxyz/opencode-context-meter](https://github.com/temidayoxyz/opencode-context-meter) on `main` — 8 Oct 2026
 - 🚀 Pushed to [temidayoxyz/opencode-spinner](https://github.com/temidayoxyz/opencode-spinner) on `main` — 8 Oct 2026
 - 🌱 Created branch `main` in [temidayoxyz/opencode-context-meter](https://github.com/temidayoxyz/opencode-context-meter) — 8 Oct 2026
 - 🌱 Created branch `main` in [temidayoxyz/opencode-spinner](https://github.com/temidayoxyz/opencode-spinner) — 8 Oct 2026
 - 🚀 Pushed to [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) on `main` — 7 Oct 2026
 - ⭐ Starred [morluto/rea](https://github.com/morluto/rea) — 8 Oct 2026
-- 🚀 Pushed to [temidayoxyz/opencode-spinner](https://github.com/temidayoxyz/opencode-spinner) on `main` — 8 Oct 2026
-- 🚀 Pushed to [temidayoxyz/u1-docs](https://github.com/temidayoxyz/u1-docs) on `main` — 7 Oct 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
