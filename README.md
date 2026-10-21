@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->144<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->145<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,6 +82,7 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 📦 Released [v0.2.0-dev.2](https://github.com/temidayoxyz/opencode-claude/releases/tag/v0.2.0-dev.2) in [temidayoxyz/opencode-claude](https://github.com/temidayoxyz/opencode-claude) — 20 Oct 2026
 - 🚀 Pushed to [temidayoxyz/deepseek4.1flashtest](https://github.com/temidayoxyz/deepseek4.1flashtest) on `main` — 19 Oct 2026
 - 🌱 Created branch `main` in [temidayoxyz/deepseek4.1flashtest](https://github.com/temidayoxyz/deepseek4.1flashtest) — 19 Oct 2026
 - 🌱 Created branch `main` in [temidayoxyz/spacebunnytest](https://github.com/temidayoxyz/spacebunnytest) — 15 Oct 2026
@@ -89,7 +90,6 @@
 - 🚀 Pushed to [temidayoxyz/spacebunnytest](https://github.com/temidayoxyz/spacebunnytest) on `main` — 15 Oct 2026
 - ⭐ Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) — 14 Oct 2026
 - ⭐ Starred [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) — 14 Oct 2026
-- ⭐ Starred [SegFault42/HeliosGen](https://github.com/SegFault42/HeliosGen) — 14 Oct 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
