@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->145<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->146<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 🍴 Forked [havenlytics/Havenlytics](https://github.com/havenlytics/Havenlytics) — 22 Oct 2026
+- ⭐ Starred [havenlytics/Havenlytics](https://github.com/havenlytics/Havenlytics) — 22 Oct 2026
 - 🚀 Pushed to [temidayoxyz/deepseek4.1flashtest](https://github.com/temidayoxyz/deepseek4.1flashtest) on `main` — 19 Oct 2026
 - 📦 Released [v0.2.0-dev.4](https://github.com/temidayoxyz/opencode-claude/releases/tag/v0.2.0-dev.4) in [temidayoxyz/opencode-claude](https://github.com/temidayoxyz/opencode-claude) — 21 Oct 2026
 - 📦 Released [v0.2.0-dev.3](https://github.com/temidayoxyz/opencode-claude/releases/tag/v0.2.0-dev.3) in [temidayoxyz/opencode-claude](https://github.com/temidayoxyz/opencode-claude) — 21 Oct 2026
 - 📦 Released [v0.2.0-dev.2](https://github.com/temidayoxyz/opencode-claude/releases/tag/v0.2.0-dev.2) in [temidayoxyz/opencode-claude](https://github.com/temidayoxyz/opencode-claude) — 20 Oct 2026
 - 🚀 Pushed to [temidayoxyz/deepseek4.1flashtest](https://github.com/temidayoxyz/deepseek4.1flashtest) on `main` — 19 Oct 2026
 - 🌱 Created branch `main` in [temidayoxyz/deepseek4.1flashtest](https://github.com/temidayoxyz/deepseek4.1flashtest) — 19 Oct 2026
-- 🌱 Created branch `main` in [temidayoxyz/spacebunnytest](https://github.com/temidayoxyz/spacebunnytest) — 15 Oct 2026
-- ⭐ Starred [dicebear/dicebear](https://github.com/dicebear/dicebear) — 15 Oct 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
