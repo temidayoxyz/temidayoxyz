@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->146<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->147<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 📦 Released [v1.0.1](https://github.com/temidayoxyz/konzult/releases/tag/v1.0.1) in [temidayoxyz/konzult](https://github.com/temidayoxyz/konzult) — 23 Oct 2026
+- 📦 Released [v1.0.0](https://github.com/temidayoxyz/konzult/releases/tag/v1.0.0) in [temidayoxyz/konzult](https://github.com/temidayoxyz/konzult) — 23 Oct 2026
+- 🚀 Pushed to [temidayoxyz/opencode-claude](https://github.com/temidayoxyz/opencode-claude) on `main` — 21 Oct 2026
 - ⭐ Starred [peach-mitao/peach](https://github.com/peach-mitao/peach) — 23 Oct 2026
 - 🍴 Forked [havenlytics/Havenlytics](https://github.com/havenlytics/Havenlytics) — 22 Oct 2026
 - ⭐ Starred [havenlytics/Havenlytics](https://github.com/havenlytics/Havenlytics) — 22 Oct 2026
 - 🚀 Pushed to [temidayoxyz/deepseek4.1flashtest](https://github.com/temidayoxyz/deepseek4.1flashtest) on `main` — 19 Oct 2026
 - 📦 Released [v0.2.0-dev.4](https://github.com/temidayoxyz/opencode-claude/releases/tag/v0.2.0-dev.4) in [temidayoxyz/opencode-claude](https://github.com/temidayoxyz/opencode-claude) — 21 Oct 2026
-- 📦 Released [v0.2.0-dev.3](https://github.com/temidayoxyz/opencode-claude/releases/tag/v0.2.0-dev.3) in [temidayoxyz/opencode-claude](https://github.com/temidayoxyz/opencode-claude) — 21 Oct 2026
-- 📦 Released [v0.2.0-dev.2](https://github.com/temidayoxyz/opencode-claude/releases/tag/v0.2.0-dev.2) in [temidayoxyz/opencode-claude](https://github.com/temidayoxyz/opencode-claude) — 20 Oct 2026
-- 🚀 Pushed to [temidayoxyz/deepseek4.1flashtest](https://github.com/temidayoxyz/deepseek4.1flashtest) on `main` — 19 Oct 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
