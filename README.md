@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->147<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->148<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) — 26 Oct 2026
+- 🍴 Forked [Runixe786/Macified-Windows](https://github.com/Runixe786/Macified-Windows) — 25 Oct 2026
+- ⭐ Starred [Runixe786/Macified-Windows](https://github.com/Runixe786/Macified-Windows) — 25 Oct 2026
 - ⭐ Starred [vinceliuice/WhiteSur-kde](https://github.com/vinceliuice/WhiteSur-kde) — 25 Oct 2026
 - ⭐ Starred [vinceliuice/WhiteSur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme) — 25 Oct 2026
 - ⭐ Starred [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) — 25 Oct 2026
 - ⭐ Starred [microsoft/Agensh](https://github.com/microsoft/Agensh) — 25 Oct 2026
 - 🌱 Created branch `main` in [temidayoxyz/konzult](https://github.com/temidayoxyz/konzult) — 23 Oct 2026
-- 📦 Released [v1.0.1](https://github.com/temidayoxyz/konzult/releases/tag/v1.0.1) in [temidayoxyz/konzult](https://github.com/temidayoxyz/konzult) — 23 Oct 2026
-- 📦 Released [v1.0.0](https://github.com/temidayoxyz/konzult/releases/tag/v1.0.0) in [temidayoxyz/konzult](https://github.com/temidayoxyz/konzult) — 23 Oct 2026
-- 🚀 Pushed to [temidayoxyz/opencode-claude](https://github.com/temidayoxyz/opencode-claude) on `main` — 21 Oct 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
