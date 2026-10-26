@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->148<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->153<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
-- ⭐ Starred [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) — 26 Oct 2026
-- 🍴 Forked [Runixe786/Macified-Windows](https://github.com/Runixe786/Macified-Windows) — 25 Oct 2026
-- ⭐ Starred [Runixe786/Macified-Windows](https://github.com/Runixe786/Macified-Windows) — 25 Oct 2026
-- ⭐ Starred [vinceliuice/WhiteSur-kde](https://github.com/vinceliuice/WhiteSur-kde) — 25 Oct 2026
-- ⭐ Starred [vinceliuice/WhiteSur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme) — 25 Oct 2026
-- ⭐ Starred [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) — 25 Oct 2026
-- ⭐ Starred [microsoft/Agensh](https://github.com/microsoft/Agensh) — 25 Oct 2026
-- 🌱 Created branch `main` in [temidayoxyz/konzult](https://github.com/temidayoxyz/konzult) — 23 Oct 2026
+- 🍴 Forked [sburton0/encyclopedia-2000](https://github.com/sburton0/encyclopedia-2000) — 26 Oct 2026
+- ⭐ Starred [sburton0/encyclopedia-2000](https://github.com/sburton0/encyclopedia-2000) — 26 Oct 2026
+- ⭐ Starred [igorm84/spotify-astro-transitions](https://github.com/igorm84/spotify-astro-transitions) — 26 Oct 2026
+- 🍴 Forked [samuel0530/nextui-dashboard](https://github.com/samuel0530/nextui-dashboard) — 26 Oct 2026
+- ⭐ Starred [samuel0530/nextui-dashboard](https://github.com/samuel0530/nextui-dashboard) — 26 Oct 2026
+- 🍴 Forked [NextAdminHQ/nextjs-admin-dashboard](https://github.com/NextAdminHQ/nextjs-admin-dashboard) — 26 Oct 2026
+- ⭐ Starred [NextAdminHQ/nextjs-admin-dashboard](https://github.com/NextAdminHQ/nextjs-admin-dashboard) — 26 Oct 2026
+- 🍴 Forked [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) — 26 Oct 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
