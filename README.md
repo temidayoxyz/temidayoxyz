@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [useopendesk/opendesk](https://github.com/useopendesk/opendesk) — 2 Nov 2026
+- ⭐ Starred [warmbly/warmbly](https://github.com/warmbly/warmbly) — 2 Nov 2026
 - ⭐ Starred [openai/codex-security](https://github.com/openai/codex-security) — 1 Nov 2026
 - ⭐ Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai) — 1 Nov 2026
 - ⭐ Starred [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) — 1 Nov 2026
 - ⭐ Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) — 1 Nov 2026
 - ⭐ Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) — 1 Nov 2026
 - ⭐ Starred [usestrix/strix](https://github.com/usestrix/strix) — 1 Nov 2026
-- ⭐ Starred [volkanakyel/vitrum-3d](https://github.com/volkanakyel/vitrum-3d) — 1 Nov 2026
-- 🚀 Pushed to [temidayoxyz/flexnotes](https://github.com/temidayoxyz/flexnotes) on `main` — 27 Oct 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
