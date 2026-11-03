@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->154<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->156<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 🔀 Opened PR [#1](undefined) in [temidayoxyz/brine](https://github.com/temidayoxyz/brine) — 3 Nov 2026
+- ⭐ Starred [nightly-labs/openbot](https://github.com/nightly-labs/openbot) — 3 Nov 2026
+- ⭐ Starred [rerun-build/rerun](https://github.com/rerun-build/rerun) — 3 Nov 2026
 - ⭐ Starred [useopendesk/opendesk](https://github.com/useopendesk/opendesk) — 2 Nov 2026
 - ⭐ Starred [warmbly/warmbly](https://github.com/warmbly/warmbly) — 2 Nov 2026
 - ⭐ Starred [openai/codex-security](https://github.com/openai/codex-security) — 1 Nov 2026
 - ⭐ Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai) — 1 Nov 2026
 - ⭐ Starred [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) — 1 Nov 2026
-- ⭐ Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) — 1 Nov 2026
-- ⭐ Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) — 1 Nov 2026
-- ⭐ Starred [usestrix/strix](https://github.com/usestrix/strix) — 1 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
