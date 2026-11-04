@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->159<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->155<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 🚀 Pushed to [temidayoxyz/deep-design](https://github.com/temidayoxyz/deep-design) on `master` — 4 Nov 2026
+- 🍴 Forked [arhamkhnz/studio-blocks](https://github.com/arhamkhnz/studio-blocks) — 4 Nov 2026
+- ⭐ Starred [arhamkhnz/studio-blocks](https://github.com/arhamkhnz/studio-blocks) — 4 Nov 2026
 - 🌱 Created branch `main` in [temidayoxyz/voicemonial-landing](https://github.com/temidayoxyz/voicemonial-landing) — 2 Nov 2026
 - 🌱 Created branch `main` in [temidayoxyz/deep-sticky-wall](https://github.com/temidayoxyz/deep-sticky-wall) — 3 Nov 2026
 - 🗑️ Deleted branch `main` in [temidayoxyz/brine](https://github.com/temidayoxyz/brine) — 3 Nov 2026
 - 🚀 Pushed to [temidayoxyz/blossie](https://github.com/temidayoxyz/blossie) on `main` — 3 Nov 2026
 - 🌱 Created branch `main` in [temidayoxyz/blossie](https://github.com/temidayoxyz/blossie) — 3 Nov 2026
-- ⭐ Starred [ollama/ollama](https://github.com/ollama/ollama) — 3 Nov 2026
-- 🔀 Merged PR [#1](undefined) in [temidayoxyz/brine](https://github.com/temidayoxyz/brine) — 3 Nov 2026
-- 🔀 Opened PR [#1](undefined) in [temidayoxyz/brine](https://github.com/temidayoxyz/brine) — 3 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
