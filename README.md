@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->157<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->158<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
-- 🚀 Pushed to [temidayoxyz/screentrics](https://github.com/temidayoxyz/screentrics) on `main` — 5 Nov 2026
-- 🚀 Pushed to [temidayoxyz/deep-contrast](https://github.com/temidayoxyz/deep-contrast) on `main` — 5 Nov 2026
-- 🌱 Created branch `master` in [temidayoxyz/deep-work](https://github.com/temidayoxyz/deep-work) — 5 Nov 2026
-- 🚀 Pushed to [temidayoxyz/deep-sticky-wall](https://github.com/temidayoxyz/deep-sticky-wall) on `main` — 3 Nov 2026
-- ⭐ Starred [janhq/jan](https://github.com/janhq/jan) — 5 Nov 2026
-- 🚀 Pushed to [temidayoxyz/saas-dashboard](https://github.com/temidayoxyz/saas-dashboard) on `main` — 5 Nov 2026
-- 🚀 Pushed to [temidayoxyz/saas-dashboard](https://github.com/temidayoxyz/saas-dashboard) on `main` — 5 Nov 2026
+- 🚀 Pushed to [temidayoxyz/deep-analytics](https://github.com/temidayoxyz/deep-analytics) on `main` — 6 Nov 2026
 - 🚀 Pushed to [temidayoxyz/deep-work](https://github.com/temidayoxyz/deep-work) on `master` — 5 Nov 2026
+- 🚀 Pushed to [temidayoxyz/deep-analytics](https://github.com/temidayoxyz/deep-analytics) on `main` — 6 Nov 2026
+- 🌱 Created branch `main` in [temidayoxyz/screentrics](https://github.com/temidayoxyz/screentrics) — 5 Nov 2026
+- ⭐ Starred [anomalyco/rune](https://github.com/anomalyco/rune) — 6 Nov 2026
+- ⭐ Starred [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) — 6 Nov 2026
+- ⭐ Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — 6 Nov 2026
+- 🚀 Pushed to [temidayoxyz/screentrics](https://github.com/temidayoxyz/screentrics) on `main` — 5 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
