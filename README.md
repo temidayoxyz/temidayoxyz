@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->158<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->161<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
-- ⭐ Starred [Synapsr/Hovod](https://github.com/Synapsr/Hovod) — 11 Nov 2026
-- ⭐ Starred [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) — 10 Nov 2026
-- ⭐ Starred [minghinmatthewlam/pi-gui](https://github.com/minghinmatthewlam/pi-gui) — 9 Nov 2026
-- 🚀 Pushed to [temidayoxyz/screentrics](https://github.com/temidayoxyz/screentrics) on `main` — 9 Nov 2026
-- 🚀 Pushed to [temidayoxyz/deep-analytics](https://github.com/temidayoxyz/deep-analytics) on `main` — 6 Nov 2026
-- ⭐ Starred [anomalyco/browse](https://github.com/anomalyco/browse) — 7 Nov 2026
-- 🚀 Pushed to [temidayoxyz/deep-analytics](https://github.com/temidayoxyz/deep-analytics) on `main` — 6 Nov 2026
-- 🚀 Pushed to [temidayoxyz/deep-analytics](https://github.com/temidayoxyz/deep-analytics) on `main` — 6 Nov 2026
+- ⭐ Starred [Pouryaak/wobnimo](https://github.com/Pouryaak/wobnimo) — 11 Nov 2026
+- 🍴 Forked [divyanshu-patil/blooby](https://github.com/divyanshu-patil/blooby) — 11 Nov 2026
+- ⭐ Starred [divyanshu-patil/blooby](https://github.com/divyanshu-patil/blooby) — 11 Nov 2026
+- 🍴 Forked [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) — 11 Nov 2026
+- 🍴 Forked [CX-ArtLab/BoopFace](https://github.com/CX-ArtLab/BoopFace) — 11 Nov 2026
+- ⭐ Starred [CX-ArtLab/BoopFace](https://github.com/CX-ArtLab/BoopFace) — 11 Nov 2026
+- ⭐ Starred [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) — 11 Nov 2026
+- ⭐ Starred [hardbeat920/monocode](https://github.com/hardbeat920/monocode) — 11 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
