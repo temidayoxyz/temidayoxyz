@@ -82,6 +82,7 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [better-auth/better-auth](https://github.com/better-auth/better-auth) — 13 Nov 2026
 - ⭐ Starred [serveroshq/panel](https://github.com/serveroshq/panel) — 12 Nov 2026
 - 🍴 Forked [nightly-labs/openbot](https://github.com/nightly-labs/openbot) — 12 Nov 2026
 - ⭐ Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) — 12 Nov 2026
@@ -89,7 +90,6 @@
 - ⭐ Starred [Pouryaak/wobnimo](https://github.com/Pouryaak/wobnimo) — 11 Nov 2026
 - 🍴 Forked [divyanshu-patil/blooby](https://github.com/divyanshu-patil/blooby) — 11 Nov 2026
 - ⭐ Starred [divyanshu-patil/blooby](https://github.com/divyanshu-patil/blooby) — 11 Nov 2026
-- 🍴 Forked [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar) — 11 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
