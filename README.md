@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->162<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->163<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,6 +82,7 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) — 13 Nov 2026
 - ⭐ Starred [better-auth/better-auth](https://github.com/better-auth/better-auth) — 13 Nov 2026
 - ⭐ Starred [serveroshq/panel](https://github.com/serveroshq/panel) — 12 Nov 2026
 - 🍴 Forked [nightly-labs/openbot](https://github.com/nightly-labs/openbot) — 12 Nov 2026
@@ -89,7 +90,6 @@
 - ⭐ Starred [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) — 12 Nov 2026
 - ⭐ Starred [Pouryaak/wobnimo](https://github.com/Pouryaak/wobnimo) — 11 Nov 2026
 - 🍴 Forked [divyanshu-patil/blooby](https://github.com/divyanshu-patil/blooby) — 11 Nov 2026
-- ⭐ Starred [divyanshu-patil/blooby](https://github.com/divyanshu-patil/blooby) — 11 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
