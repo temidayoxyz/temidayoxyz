@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->164<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->166<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [anomalyco/hex](https://github.com/anomalyco/hex) — 15 Nov 2026
+- 🍴 Forked [Acadbek/lumabar](https://github.com/Acadbek/lumabar) — 15 Nov 2026
 - ⭐ Starred [blixvip/NullMotion](https://github.com/blixvip/NullMotion) — 14 Nov 2026
 - ⭐ Starred [Forward-Future/scarlet](https://github.com/Forward-Future/scarlet) — 14 Nov 2026
 - 🍴 Forked [opencoredev/islandcn](https://github.com/opencoredev/islandcn) — 14 Nov 2026
 - ⭐ Starred [opencoredev/islandcn](https://github.com/opencoredev/islandcn) — 14 Nov 2026
 - ⭐ Starred [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) — 13 Nov 2026
 - ⭐ Starred [better-auth/better-auth](https://github.com/better-auth/better-auth) — 13 Nov 2026
-- ⭐ Starred [serveroshq/panel](https://github.com/serveroshq/panel) — 12 Nov 2026
-- 🍴 Forked [nightly-labs/openbot](https://github.com/nightly-labs/openbot) — 12 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
