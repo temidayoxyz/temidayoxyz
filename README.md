@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->167<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->168<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — 19 Nov 2026
+- ⭐ Starred [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) — 19 Nov 2026
+- ⭐ Starred [upptime/upptime](https://github.com/upptime/upptime) — 19 Nov 2026
+- ⭐ Starred [bseymour/Website-Uptime-Monitor-template](https://github.com/bseymour/Website-Uptime-Monitor-template) — 19 Nov 2026
 - 🌱 Created branch `main` in [temidayoxyz/kobolar](https://github.com/temidayoxyz/kobolar) — 17 Nov 2026
 - ⭐ Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) — 19 Nov 2026
 - 📦 Released [v1.0.0](https://github.com/temidayoxyz/windocker/releases/tag/v1.0.0) in [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) — 18 Nov 2026
 - 🚀 Pushed to [temidayoxyz/Oddlot](https://github.com/temidayoxyz/Oddlot) on `main` — 13 Nov 2026
-- 🌱 Created branch `main` in [temidayoxyz/Oddlot](https://github.com/temidayoxyz/Oddlot) — 13 Nov 2026
-- 🚀 Pushed to [temidayoxyz/Oddlot](https://github.com/temidayoxyz/Oddlot) on `main` — 13 Nov 2026
-- 🚀 Pushed to [temidayoxyz/Oddlot](https://github.com/temidayoxyz/Oddlot) on `main` — 13 Nov 2026
-- ⭐ Starred [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) — 15 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
