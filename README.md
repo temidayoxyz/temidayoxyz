@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [devanshutak25/3d-resources](https://github.com/devanshutak25/3d-resources) — 20 Nov 2026
+- ⭐ Starred [lucas-martinic/polyfork-catalog](https://github.com/lucas-martinic/polyfork-catalog) — 20 Nov 2026
 - ⭐ Starred [nexu-io/openmotion](https://github.com/nexu-io/openmotion) — 19 Nov 2026
 - ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — 19 Nov 2026
 - ⭐ Starred [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) — 19 Nov 2026
 - ⭐ Starred [upptime/upptime](https://github.com/upptime/upptime) — 19 Nov 2026
 - ⭐ Starred [bseymour/Website-Uptime-Monitor-template](https://github.com/bseymour/Website-Uptime-Monitor-template) — 19 Nov 2026
 - 🌱 Created branch `main` in [temidayoxyz/kobolar](https://github.com/temidayoxyz/kobolar) — 17 Nov 2026
-- ⭐ Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) — 19 Nov 2026
-- 📦 Released [v1.0.0](https://github.com/temidayoxyz/windocker/releases/tag/v1.0.0) in [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) — 18 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
