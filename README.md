@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->167<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->168<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 🍴 Forked [keenthemes/reui](https://github.com/keenthemes/reui) — 20 Nov 2026
+- ⭐ Starred [keenthemes/reui](https://github.com/keenthemes/reui) — 20 Nov 2026
 - ⭐ Starred [devanshutak25/3d-resources](https://github.com/devanshutak25/3d-resources) — 20 Nov 2026
 - ⭐ Starred [lucas-martinic/polyfork-catalog](https://github.com/lucas-martinic/polyfork-catalog) — 20 Nov 2026
 - ⭐ Starred [nexu-io/openmotion](https://github.com/nexu-io/openmotion) — 19 Nov 2026
 - ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — 19 Nov 2026
 - ⭐ Starred [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) — 19 Nov 2026
 - ⭐ Starred [upptime/upptime](https://github.com/upptime/upptime) — 19 Nov 2026
-- ⭐ Starred [bseymour/Website-Uptime-Monitor-template](https://github.com/bseymour/Website-Uptime-Monitor-template) — 19 Nov 2026
-- 🌱 Created branch `main` in [temidayoxyz/kobolar](https://github.com/temidayoxyz/kobolar) — 17 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
