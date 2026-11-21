@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [penpot/penpot](https://github.com/penpot/penpot) — 21 Nov 2026
+- ⭐ Starred [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) — 21 Nov 2026
 - 🍴 Forked [keenthemes/reui](https://github.com/keenthemes/reui) — 20 Nov 2026
 - ⭐ Starred [keenthemes/reui](https://github.com/keenthemes/reui) — 20 Nov 2026
 - ⭐ Starred [devanshutak25/3d-resources](https://github.com/devanshutak25/3d-resources) — 20 Nov 2026
 - ⭐ Starred [lucas-martinic/polyfork-catalog](https://github.com/lucas-martinic/polyfork-catalog) — 20 Nov 2026
 - ⭐ Starred [nexu-io/openmotion](https://github.com/nexu-io/openmotion) — 19 Nov 2026
 - ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — 19 Nov 2026
-- ⭐ Starred [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) — 19 Nov 2026
-- ⭐ Starred [upptime/upptime](https://github.com/upptime/upptime) — 19 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
