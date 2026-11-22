@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [in0finite/SanAndreasUnity](https://github.com/in0finite/SanAndreasUnity) — 22 Nov 2026
+- ⭐ Starred [rwengine/openrw](https://github.com/rwengine/openrw) — 22 Nov 2026
+- ⭐ Starred [openfw-game/OpenLiberty](https://github.com/openfw-game/OpenLiberty) — 22 Nov 2026
 - ⭐ Starred [ToBeWin/HandDraw-Skill](https://github.com/ToBeWin/HandDraw-Skill) — 22 Nov 2026
 - ⭐ Starred [MohamadKhoja01/Penolune](https://github.com/MohamadKhoja01/Penolune) — 22 Nov 2026
 - ⭐ Starred [excalimate/excalimate](https://github.com/excalimate/excalimate) — 22 Nov 2026
 - ⭐ Starred [penpot/penpot](https://github.com/penpot/penpot) — 21 Nov 2026
 - ⭐ Starred [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) — 21 Nov 2026
-- 🍴 Forked [keenthemes/reui](https://github.com/keenthemes/reui) — 20 Nov 2026
-- ⭐ Starred [keenthemes/reui](https://github.com/keenthemes/reui) — 20 Nov 2026
-- ⭐ Starred [devanshutak25/3d-resources](https://github.com/devanshutak25/3d-resources) — 20 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
