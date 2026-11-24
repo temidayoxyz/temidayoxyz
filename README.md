@@ -25,7 +25,7 @@
 
 > 🌍 Just another dev on the internet building useful things, sometimes by accident.
 
-- 🔭 I've shipped **<!--REPO_COUNT-->168<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
+- 🔭 I've shipped **<!--REPO_COUNT-->169<!--REPO_COUNT-->** repositories on GitHub — mostly tiny, useful experiments
 - 🎨 I love crafting clean fullstack products and polished little web toys
 - 💬 Ask me about agentic engineering, and turning ideas into working products
 - ⚡ Fun fact: half of my "accidental" projects ended up being the ones that worked.
@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) — 24 Nov 2026
+- 🍴 Forked [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) — 24 Nov 2026
+- ⭐ Starred [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) — 24 Nov 2026
 - ⭐ Starred [bridge-mind/leonida](https://github.com/bridge-mind/leonida) — 23 Nov 2026
 - ⭐ Starred [in0finite/SanAndreasUnity](https://github.com/in0finite/SanAndreasUnity) — 22 Nov 2026
 - ⭐ Starred [rwengine/openrw](https://github.com/rwengine/openrw) — 22 Nov 2026
 - ⭐ Starred [openfw-game/OpenLiberty](https://github.com/openfw-game/OpenLiberty) — 22 Nov 2026
 - ⭐ Starred [ToBeWin/HandDraw-Skill](https://github.com/ToBeWin/HandDraw-Skill) — 22 Nov 2026
-- ⭐ Starred [MohamadKhoja01/Penolune](https://github.com/MohamadKhoja01/Penolune) — 22 Nov 2026
-- ⭐ Starred [excalimate/excalimate](https://github.com/excalimate/excalimate) — 22 Nov 2026
-- ⭐ Starred [penpot/penpot](https://github.com/penpot/penpot) — 21 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
