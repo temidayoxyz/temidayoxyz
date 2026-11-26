@@ -82,6 +82,7 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 📦 Released [v1.2.0](https://github.com/temidayoxyz/windocker/releases/tag/v1.2.0) in [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) — 25 Nov 2026
 - 📦 Released [v1.1.1](https://github.com/temidayoxyz/windocker/releases/tag/v1.1.1) in [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) — 25 Nov 2026
 - ⭐ Starred [renzyxx/WacOS](https://github.com/renzyxx/WacOS) — 25 Nov 2026
 - 📦 Released [v1.1.0](https://github.com/temidayoxyz/windocker/releases/tag/v1.1.0) in [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) — 25 Nov 2026
@@ -89,7 +90,6 @@
 - 🍴 Forked [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) — 24 Nov 2026
 - ⭐ Starred [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) — 24 Nov 2026
 - ⭐ Starred [bridge-mind/leonida](https://github.com/bridge-mind/leonida) — 23 Nov 2026
-- ⭐ Starred [in0finite/SanAndreasUnity](https://github.com/in0finite/SanAndreasUnity) — 22 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
