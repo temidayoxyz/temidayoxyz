@@ -82,14 +82,14 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
-- 📦 Released [v1.2.0](https://github.com/temidayoxyz/windocker/releases/tag/v1.2.0) in [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) — 25 Nov 2026
-- 📦 Released [v1.1.1](https://github.com/temidayoxyz/windocker/releases/tag/v1.1.1) in [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) — 25 Nov 2026
-- ⭐ Starred [renzyxx/WacOS](https://github.com/renzyxx/WacOS) — 25 Nov 2026
-- 📦 Released [v1.1.0](https://github.com/temidayoxyz/windocker/releases/tag/v1.1.0) in [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) — 25 Nov 2026
-- ⭐ Starred [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) — 24 Nov 2026
-- 🍴 Forked [mesamirh/MovieBox-Tui](https://github.com/mesamirh/MovieBox-Tui) — 24 Nov 2026
-- ⭐ Starred [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) — 24 Nov 2026
-- ⭐ Starred [bridge-mind/leonida](https://github.com/bridge-mind/leonida) — 23 Nov 2026
+- 📦 Released [v1.3.1](https://github.com/temidayoxyz/windocker/releases/tag/v1.3.1) in [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) — 26 Nov 2026
+- ⭐ Starred [superdesigndev/treg](https://github.com/superdesigndev/treg) — 26 Nov 2026
+- 📦 Released [v1.3.0](https://github.com/temidayoxyz/windocker/releases/tag/v1.3.0) in [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) — 26 Nov 2026
+- ⭐ Starred [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) — 26 Nov 2026
+- ⭐ Starred [TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh) — 26 Nov 2026
+- 🚀 Pushed to [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) on `main` — 25 Nov 2026
+- ⭐ Starred [storytold/craft-anything](https://github.com/storytold/craft-anything) — 26 Nov 2026
+- 🚀 Pushed to [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) on `main` — 25 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
