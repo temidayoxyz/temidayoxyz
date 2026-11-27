@@ -82,6 +82,7 @@
 ### ⚡ Recent Activity — live log
 
 <!--RECENT_ACTIVITY:start-->
+- 📦 Released [v1.4.0](https://github.com/temidayoxyz/windocker/releases/tag/v1.4.0) in [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) — 27 Nov 2026
 - 🔀 Closed PR [#1404](undefined) in [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 20 Nov 2026
 - 📦 Released [v1.3.1](https://github.com/temidayoxyz/windocker/releases/tag/v1.3.1) in [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) — 26 Nov 2026
 - ⭐ Starred [superdesigndev/treg](https://github.com/superdesigndev/treg) — 26 Nov 2026
@@ -89,7 +90,6 @@
 - ⭐ Starred [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) — 26 Nov 2026
 - ⭐ Starred [TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh) — 26 Nov 2026
 - 🚀 Pushed to [temidayoxyz/windocker](https://github.com/temidayoxyz/windocker) on `main` — 25 Nov 2026
-- ⭐ Starred [storytold/craft-anything](https://github.com/storytold/craft-anything) — 26 Nov 2026
 <!--RECENT_ACTIVITY:end-->
 
 ---
